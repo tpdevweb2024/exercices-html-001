@@ -1,0 +1,12 @@
+Consignes:
+
+1. Créez plusieurs fichiers HTML pour chaque page de votre site (par exemple: index.html, about.html, contact.html).
+2. Sur la page d'accueil (index.html), créez des liens vers les autres pages de votre site.
+3. Sur chaque page, incluez un lien de retour à la page d'accueil.
+4. Utilisez des balises <a> pour créer des liens hypertexte entre les pages.
+5. Assurez-vous que chaque page contient un contenu unique pour illustrer la navigation (<h1> avec un titre par exemple).
+6. Vous pouvez si vous le souhaitez répéter ce menu sur toutes vos pages pour assurer une navigation libre et totale
+
+Résultat attendu:
+
+Un site web multi-pages avec une page d'accueil contenant des liens vers les pages "À Propos" et "Contact", chaque page ayant un lien de retour à l'accueil pour une navigation fluide entre les différentes sections du site.

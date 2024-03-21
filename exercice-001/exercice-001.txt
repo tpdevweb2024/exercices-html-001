@@ -1,0 +1,12 @@
+Consignes :
+
+1. Créez un fichier HTML nommé "index.html"
+2. Ajoutez les balises HTML de base (`<!DOCTYPE html>` `<html>` `<head>` `<title>` `<body>`)
+3. Dans le <head> ajoutez un titre à votre page
+4. Dans le <body> créez une structure de base avec des balises telles que <h1> <p> <ul> <li>
+5. Incluez au moins un titre de niveau 1 (<h1>), un paragraphe (<p>), et une liste non ordonnée (<ul>) avec quelques éléments de liste (<li>)
+6. Sauvegardez votre fichier et ouvrez-le dans un navigateur pour voir le rendu de votre page
+
+Résultat attendu:
+
+Une page web simple avec un titre, un paragraphe et une liste d'éléments affichés dans votre navigateur.

@@ -1,0 +1,11 @@
+Consignes:
+
+1. Créez un site web avec au moins 3 pages (accueil, galerie, contact).
+2. Utilisez HTML pour structurer le contenu de chaque page de manière avancée.
+3. Intégrez des éléments interactifs comme des formulaires, des images, des listes complexes, des tableaux ... selon la page que vous éditez.
+4. Utilisez des balises sémantiques pour une structure claire et logique.
+5. Assurez-vous que chaque page contient un contenu unique et pertinent.
+
+Résultat attendu:
+
+Un site web avancé avec une structure complexe et des fonctionnalités avancées, sans utilisation de CSS pour la mise en forme, mettant en avant les capacités avancées du HTML pour créer un contenu riche et interactif.

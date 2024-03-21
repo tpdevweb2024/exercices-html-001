@@ -1,0 +1,12 @@
+Consignes :
+
+1. Créez un fichier HTML nommé "index.html".
+2. Utilisez des balises avancées telles que <table>, <iframe>, <audio>, <video>.
+3. Intégrez une table avec au moins 3 colonnes et 3 lignes, en y ajoutant du contenu.
+4. Incluez un lecteur audio ou vidéo avec des contrôles de lecture.
+5. Intégrez une iframe avec une carte Google Maps affichant un lieu de votre choix.
+6. Utilisez des balises sémantiques pour structurer votre contenu de manière logique.
+
+Résultat attendu:
+
+Une page web complexe avec une table, un lecteur audio, un lecteur vidéo et une carte Google Maps intégrée via une iframe.

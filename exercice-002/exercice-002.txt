@@ -1,0 +1,11 @@
+Consignes:
+
+1. Créez un fichier HTML nommé "index.html".
+2. Utilisez les balises de base du HTML ainsi que des éléments plus avancés tels que <div>, <form>, <input>, <label>.
+3. Structurez votre page en utilisant des balises sémantiques comme <header>, <main>, <section>, <footer>.
+4. Ajoutez un formulaire de contact avec des champs pour le nom, l'email et un message.
+5. Incluez un bouton de soumission pour le formulaire.
+
+Résultat attendu:
+
+Une page web interactive avec un formulaire de contact et une structure claire utilisant des balises sémantiques, prête à être stylisée avec du CSS (on ne le fait pas)

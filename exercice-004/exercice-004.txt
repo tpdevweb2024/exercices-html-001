@@ -1,0 +1,11 @@
+Consignes :
+
+1. Créez un fichier HTML nommé "index.html".
+2. Utilisez des balises avancées telles que <canvas>, <svg>, <details>, <figure>.
+3. Intégrez un élément <canvas> pour dessiner des formes ou des graphiques.
+4. Utilisez des éléments <svg> pour ajouter des graphiques vectoriels scalables.
+5. Incluez un élément <details> pour créer des sections déroulantes.
+6. Utilisez des balises sémantiques pour structurer votre contenu de manière avancée.
+
+Résultat attendu:
+Une page web avancée avec un élément canvas pour le dessin, des graphiques vectoriels avec SVG, des sections déroulantes avec details, et une structure complexe utilisant des balises sémantiques avancées.
